@@ -4,7 +4,7 @@
 ![Archive](https://img.shields.io/badge/focus-Archive-blueviolet)
 ![Research](https://img.shields.io/badge/focus-Research-9cf)
 ![John%20Titor](https://img.shields.io/badge/topic-John%20Titor-orange)
-![Time%20Travel%20Fiction](https://img.shields.io/badge/topic-Time%20Travel%20Fiction-lightgrey)
+![Time%20Travel](https://img.shields.io/badge/topic-Time%20Travel%20Fiction-lightgrey)
 
 ![Next.js](https://img.shields.io/badge/framework-Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Webflow](https://img.shields.io/badge/design-Webflow-4353FF?logo=webflow&logoColor=white)
@@ -37,7 +37,7 @@ The site brings together three pillars of long-term preservation and discovery:
 - **Framework**: Next.js  
 - **CMS**: Headless WordPress  
 - **Identity**: Discourse SSO (`timetravelinstitute.com`)  
-- **Deployment**: In progress (likely Vercel + SpinupWP/DO)
+- **Deployment**: Vercel
 
 ---
 
